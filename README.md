@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+## &#x1f4c8; My GitHub Stats
+| Naveen's GitHub Stats | GitHub Streak |
+| --- | --- |
+[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenkus&show_icons=true)](https://github.com/Naveenkus) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naveenkus)](https://github.com/Naveenkus) |
+
+---
+
 <!--
 **Naveenkus/Naveenkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
